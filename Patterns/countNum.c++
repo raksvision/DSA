@@ -11,7 +11,7 @@ int main(){
         int j = 1;
         while (j<=i)
         {
-            cout<<count," ";
+            cout<<count;
             count+=1;
             j+=1;
             
@@ -21,3 +21,12 @@ int main(){
         
     }
 }
+
+/*
+5
+1
+23
+456
+78910
+1112131415
+*/
